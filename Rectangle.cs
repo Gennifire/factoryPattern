@@ -9,7 +9,7 @@ namespace factoryPattern
         
         public void Draw()
         {
-            Console.WriteLine("I am in the Rectangle :: Draw method");
+            Console.WriteLine("I am in the Rectangle :: Draw() method");
         }
     }
 }
